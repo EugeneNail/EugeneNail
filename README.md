@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
+        <a href="your-linkedin-URL">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="your-youtube-URL">
+          <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+        </a>
+        <a href="your-twitter-URL">
+            <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+          </a>
+          <br>
+          <img src="https://komarev.com/ghpvc/?username=EugeneNail&style=flat-square&color=blue" alt=""/>
+      </div>
 
-<!--
-**EugeneNail/EugeneNail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+      
+### :man_technologist: Обо мне:
 
-Here are some ideas to get you started:
+Бэкенд разработчик из Ростова-на-Дону
+- :gear: Специализируюсь на автоматизации производственных процессов
+- :beetle: Владею автотестированием
+- :open_book: Среднее специальное образование по направлению "Прикладная информатика"
+- :jigsaw: Знаю английский язык (В2, intermediate)
+- :pencil2: В свободное время решаю задачи на LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Языки и технологии:
+<div>
+	<br>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
+	<br>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+</div>
