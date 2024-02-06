@@ -2,7 +2,7 @@
         <!--<a href="your-linkedin-URL">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>-->
-        <a href="t.me/eugene_nail" target="_blank">
+        <a href="https://t.me/eugene_nail" target="_blank">
           <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
         </a>
         <a href="mailto:eugene.a.nail@gmail.com" target="_blank">
