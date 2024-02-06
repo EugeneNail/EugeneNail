@@ -26,8 +26,8 @@
 ### :hammer_and_wrench: Языки и технологии:
 <div>
 	<br>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="mySQL" alt="mySQL" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="60" height="60"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="60" height="60"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
 	<br>
