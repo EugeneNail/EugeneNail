@@ -1,11 +1,11 @@
 <div align="center">
-        <a href="your-linkedin-URL">
+        <!--<a href="your-linkedin-URL">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="your-youtube-URL">
+        </a>-->
+        <a href="t.me/eugene_nail">
           <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
         </a>
-        <a href="your-twitter-URL">
+        <a href="mailto:eugene.a.nail@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
           <br>
